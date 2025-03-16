@@ -47,7 +47,6 @@ public:
         this->size++;
     };
 };
-
 class SentenceNode
 {
 private:
