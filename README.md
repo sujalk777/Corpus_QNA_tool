@@ -31,4 +31,3 @@ This project is a Question and Answer (Q&A) tool designed to retrieve relevant p
    ```bash
    git clone https://github.com/Plutonium17/COL106-Corpus-QNA-Tool.git
    cd COL106-Corpus-QNA-Tool
-
