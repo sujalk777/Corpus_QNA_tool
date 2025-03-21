@@ -1,4 +1,4 @@
-# COL106 Corpus Q&A Tool
+# Corpus Q&A Tool
 
 This project is a Question and Answer (Q&A) tool designed to retrieve relevant paragraphs from a large corpus in response to user queries. It utilizes the BM25 ranking function to assess paragraph relevance and integrates with advanced language models to generate accurate answers.
 
